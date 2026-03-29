@@ -5,8 +5,14 @@
 
 # Communications strategy
 - skill: Communications strategy
-  description: Content and marketing strategy,
+  description: Content and marketing strategy, social media strategy, communications planning, public relations, media relations
 
 # Digital content development and creation
 - skill: Digital content development and creation
   description: Copy writing, graphic design, web design, front-end web development, print design
+
+  -skill: Digital art and design
+  description: I have a passion for digital art and design, and I have experience creating compelling visual narratives that resonate with diverse audiences. I am proficient in a variety of digital art and design tools, such as Clip Studio Paint, Krita and OpenToonz.
+  
+  -skill: Music composition 
+  description: I have a passion for music composition, and I have experience creating original music for a variety of projects, including video games, films, and commercials.
