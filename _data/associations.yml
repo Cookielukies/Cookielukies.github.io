@@ -1,11 +1,11 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
+- organization: G.U.N
+  role: Agent
   year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+  url: https://info.sonicretro.org/G.U.N.
+  summary: G.U.N. (Guardian Units of Nations) is an international security organization in the Sonic the Hedgehog universe.
 
 
 - organization: Yale Amnesty International
